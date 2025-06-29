@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "f9e95f7d29e9a7fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f52ee892f91980e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0486d94a835fc0c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/База/Теги/Блочные, строчные и нейтральные теги.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Блочные, строчные и нейтральные теги"
+            }
+          },
+          {
+            "id": "8cc2c041f2c94a74",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e5b27a95e2568ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "6beadb3666481d28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a68e7a3d867f42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7fa1231837e3d74c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6d979457fb504e95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b3f1245dbd3cfe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1403515b573cc48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "925cfb1418a7ac20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTML/База/Теги/Блочные, строчные и нейтральные теги.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Блочные, строчные и нейтральные теги"
+            }
+          },
+          {
+            "id": "2ded9b152031ac0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTML — Структура 💻.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из HTML — Структура 💻"
+            }
+          },
+          {
+            "id": "ea9af28e43e78428",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "97e97cda11ee56fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTML — Структура 💻.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура HTML — Структура 💻"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "0486d94a835fc0c2",
+  "lastOpenFiles": [
+    "HTML/Начало/HTML — Структура 💻.md",
+    "HTML/База/Теги/Блочные, строчные и нейтральные теги.md",
+    "HTML/База/Синтаксис.md",
+    "HTML/База/Теги",
+    "HTML/Методы, теги и бла-бла-бла",
+    "Pasted image 20250629212025.png",
+    "IMG",
+    "IMG/Pasted image 20250629212114.png",
+    "HTML/Без названия.md",
+    "HTML/База",
+    "HTML/Начало",
+    "CSS/CSS — красота и стиль 🎨.md",
+    "CSS.md",
+    "JS",
+    "CSS",
+    "HTML",
+    "JS/JavaScript — логика ⚙️.md",
+    "Добро пожаловать.md",
+    "создайте ссылку.md"
+  ]
+}
